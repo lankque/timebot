@@ -1,0 +1,8 @@
+{
+“name”: “timebot”,
+“version”: “1.0.0”,
+“description”: “Creates timers, countdowns, and converts time zones”,
+“main”: “bot.js”,
+“author”: “lankque”,
+“dependencies”: {}
+}
